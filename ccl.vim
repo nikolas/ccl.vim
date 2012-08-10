@@ -16,10 +16,11 @@ syn case ignore
 syn keyword cclKeyword	 by
 syn keyword cclKeyword	 call create
 syn keyword cclKeyword	 database declare desc detail drop dummyt
+syn keyword cclKeyword	 exists
 syn keyword cclKeyword	 from
 syn keyword cclKeyword	 group
 syn keyword cclKeyword	 having head
-syn keyword cclKeyword	 insert
+syn keyword cclKeyword	 insert into
 syn keyword cclKeyword	 join
 syn keyword cclKeyword	 limit
 syn keyword cclKeyword	 order
