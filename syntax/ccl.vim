@@ -37,6 +37,7 @@ syn keyword cclSpecial	 false null true
 " Strings (single- and double-quote)
 syn region cclString		 start=+"+  skip=+\\\\\|\\"+  end=+"+
 syn region cclString		 start=+'+  skip=+\\\\\|\\'+  end=+'+
+syn region cclString		 start=+\~+  end=+\~+
 
 " Numbers
 syn match cclNumber		 "-\=\<[0-9]*\>"
