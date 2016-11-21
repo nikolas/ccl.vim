@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:     Cerner Command Langauge (CCL)
-" Maintainer:   <nnnik@hotmail.com>
+" Maintainer:   <niknyby@riseup.net>
 " Last Change:  August 10, 2012
 " Filenames:    *.prg *.ccl
 " URL:		https://github.com/nikolas/ccl.vim
